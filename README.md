@@ -10,7 +10,7 @@ and contributing to open-source projects that help the developer community.
 🧩 ECS simulator(oil & gas domain)
 ✏️ Leave Management System
 🔐 AI resume scorer
-💻 Daily JS + React coding practice
+💻 Daily Python + AI coding practice
 🌱 Open Source
 I regularly contribute to beginner-friendly & community-driven projects like:
 First Contributions
